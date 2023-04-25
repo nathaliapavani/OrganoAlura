@@ -1,1 +1,1 @@
-# Projeto da Alura feito de React com Javascript
+# Projeto da Alura de React com Javascript
